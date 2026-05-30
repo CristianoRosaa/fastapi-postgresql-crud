@@ -6,30 +6,30 @@ Simple CRUD API developed for backend learning using FastAPI, PostgreSQL, SQLAlc
 
 ## Features
 
-• Create users
-• List users
-• Get user by ID
-• Update users
-• Delete users
-• PostgreSQL integration
-• ORM with SQLAlchemy
-• Data validation using Pydantic
-• Environment variables with env. 
-• Automatic API documentation with Swagger
+- Create users
+- List users
+- Get user by ID
+- Update users
+- Delete users
+- PostgreSQL integration
+- ORM with SQLAlchemy
+- Data validation using Pydantic
+- Environment variables with env. 
+- Automatic API documentation with Swagger
 
 ---
 
 ## Technologies
 
-• Python 
-• FastAPI
-• PostgreSQL
-• SQLAlchemy
-• Pydantic
-• psycopg2-binary
-• Uvicorn
-• python-dotenv
-• Git/GitHub
+- Python 
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Pydantic
+- psycopg2-binary
+- Uvicorn
+- python-dotenv
+- Git/GitHub
 
 ---
 
@@ -106,15 +106,15 @@ The Swagger interface will be generated automatically.
 
 ## Concepts in pratice
 
-• API REST
-• CRUD Operations
-• FastAPI
-• ORM with SQLAlchemy
-• Integration with PostgreSQL
-• Pydantic validation
-• Dependency Injection
-• Environment Variables
-• Version control with Git/GitHub
+- API REST
+- CRUD Operations
+- FastAPI
+- ORM with SQLAlchemy
+- Integration with PostgreSQL
+- Pydantic validation
+- Dependency Injection
+- Environment Variables
+- Version control with Git/GitHub
 
 ---
 
